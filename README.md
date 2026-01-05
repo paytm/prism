@@ -69,7 +69,9 @@ Every query answered through agent consensus, not engineering hacks.
 
 ## Score
 
-*Results pending from SPIDER 2.0 evaluation.*
+Evaluated against the Spider 2.0 benchmark: https://spider2-sql.github.io/
+
+<img width="789" height="742" alt="Screenshot 2026-01-05 at 2 26 24 PM" src="https://github.com/user-attachments/assets/546dacc8-28fe-43ed-9d2e-b00121b2a6dc" />
 
 ---
 
