@@ -1,16 +1,5 @@
 # Prism Swarm 🔮
 
-**SPIDER 2.0 (SNOW ) Submission**
-
----
-
-## Team
-
-**Anshul Chauhan** · **Soham Acharya**  
-Paytm 
-
----
-
 ## What is Prism?
 
 Prism is an **autonomous multi-agent system** that thinks like a team.
@@ -92,8 +81,6 @@ The code stays proprietary. The ideas don't.
 - Temperature: 0.0 (deterministic)
 - Context: 200K tokens
 
-
-
 ---
 ## The Evolution of Agentic Systems
 
@@ -106,7 +93,7 @@ It's not about building a better player. It's about building a better game—whe
 
 ---
 
-## Contact
+## Team
 
 **Anshul Chauhan** · anshul1.chauhan@paytm.com  
 **Soham Acharya** · soham.acharya@paytm.com
